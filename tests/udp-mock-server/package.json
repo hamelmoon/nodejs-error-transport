@@ -1,0 +1,13 @@
+{
+  "name": "udp-server",
+  "version": "0.1",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.1.2"
+  },
+  "author": {
+    "name": "hamelmoon",
+    "email": "hamelmoon@gmail.com"
+  },
+  "dependencies": {}
+}

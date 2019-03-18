@@ -1,0 +1,14 @@
+{
+  "name": "error-transport",
+  "version": "0.0.1",
+  "description": "This module for error transport in nodejs",
+  "main": "app.js",
+  "author": {
+    "name": "hamelmoon",
+    "email": "hamelmoon@gmail.com"
+  },
+  "dependencies": {
+    "winston": "~3.2.1",
+    "underscore": "~1.9.1"
+  }
+}
